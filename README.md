@@ -28,7 +28,7 @@ I have hands-on knowledge of:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/beatrizj">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizj&layout=compact&theme=dracula" />
   </a>
