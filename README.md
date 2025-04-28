@@ -22,27 +22,6 @@ I love turning ideas into code and I am deeply committed to continuous learning 
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/beatrizj/bikcraft" style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizj&repo=bikcraft&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/beatrizj/devcoffee" style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizj&repo=devcoffee&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/beatrizj/bethehero" style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizj&repo=bethehero&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/beatrizj/ecoleta" style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizj&repo=ecoleta&theme=tokyonight" />
-    </a>
-  </div>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
