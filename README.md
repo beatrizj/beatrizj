@@ -20,14 +20,6 @@
 I'm a **Front-End Developer** with a strong background in IT Support, currently transitioning into the world of web development.  
 I love turning ideas into code and I am deeply committed to continuous learning and self-improvement.
 
-I have hands-on knowledge of:
-
-- **JavaScript (ES6+)** – fundamentals, DOM manipulation, asynchronous programming  
-- **React** – functional components, Hooks, JSX, component-based architecture  
-- **HTML5 & CSS3** – semantic structure, responsive and mobile-first design principles  
-- **Figma to Code** – translating UI/UX designs into clean, maintainable code  
-- **Version Control** – Git, GitHub workflows, branch management, collaboration
-
 ---
 
 ## 🌟 Featured Projects
