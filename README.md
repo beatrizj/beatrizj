@@ -12,6 +12,7 @@
 [![VS Code Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
+[![JSON Badge](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](#)
 
 ---
 
